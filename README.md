@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Md-Thanveer
 
 - 👀 I’m interested in exploring the intersections of **web development** and **machine learning**. I love creating innovative solutions and experimenting with new technologies.
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills. Additionally, I’m eager to learn **Electron** to build cross-platform desktop applications.
 - 💞️ I’m looking to collaborate on **open-source projects** that tackle real-world problems and **startups** that focus on cutting-edge technologies and impactful solutions.
 - 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile) or drop me an email at [your.email@example.com](mailto:your.email@example.com).
 - 😄 Pronouns: he/him
@@ -25,4 +25,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
 </p>
