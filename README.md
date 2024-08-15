@@ -27,3 +27,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
 </p>
+
+## 🖼️ Developer Vibes
+
+![Developer Vibes](https://t3.ftcdn.net/jpg/08/24/71/98/240_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg)
