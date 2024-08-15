@@ -3,7 +3,7 @@
 - 👀 I’m interested in exploring the intersections of **web development** and **machine learning**. I love creating innovative solutions and experimenting with new technologies.
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills. Additionally, I’m eager to learn **Electron** to build cross-platform desktop applications.
 - 💞️ I’m looking to collaborate on **open-source projects** that tackle real-world problems and **startups** that focus on cutting-edge technologies and impactful solutions.
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile) or drop me an email at [your.email@example.com](mailto:your.email@example.com).
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love hiking on weekends and have a collection of over 50 unique hiking trails I've explored across different states!
 
