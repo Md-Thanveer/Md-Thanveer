@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @Md-Thanveer
+# ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I’m @Md-Thanveer
+
 
 - 👀 I’m interested in exploring the intersections of **web development** and **machine learning**. I love creating innovative solutions and experimenting with new technologies.
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills. Additionally, I’m eager to learn **Electron** to build cross-platform desktop applications.
