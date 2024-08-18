@@ -1,5 +1,4 @@
-# ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hi, I’m @Md-Thanveer
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi, I’m @Md-Thanveer
 
 - 👀 I’m interested in exploring the intersections of **web development** and **machine learning**. I love creating innovative solutions and experimenting with new technologies.
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills. Additionally, I’m eager to learn **Electron** to build cross-platform desktop applications.
@@ -22,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
