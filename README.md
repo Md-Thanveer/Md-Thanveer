@@ -1,16 +1,25 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi, I’m @Md-Thanveer
 
-- 👀 I’m interested in exploring the intersections of **web development** and **machine learning**. I love creating innovative solutions and experimenting with new technologies.
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications, as well as **Dart** and **Flutter** for modern app development. I'm also diving into **Laravel** for backend development, **Django** for building scalable web apps, and **React** to enhance my front-end skills. Additionally, I’m eager to learn **Electron** to build cross-platform desktop applications.
-- 💞️ I’m looking to collaborate on **open-source projects** that tackle real-world problems and **startups** that focus on cutting-edge technologies and impactful solutions.
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hiking on weekends and have a collection of over 50 unique hiking trails I've explored across different states!
+Welcome to my GitHub profile! I'm passionate about exploring the intersections of **web development** and **machine learning**. I enjoy creating innovative solutions and experimenting with new technologies.
 
-<!---
-Md-Thanveer/Md-Thanveer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 What I'm Working On
+
+- **Learning:** Currently diving into **HTML, CSS, JavaScript, PHP**, and **MySQL** to build robust web applications. I'm also working with **Dart** and **Flutter** for modern app development, and exploring **Laravel** for backend solutions, **Django** for scalable web apps, and **React** for enhancing my front-end skills. **Electron** is next on my list for building cross-platform desktop applications.
+- **Collaborating:** I’m eager to collaborate on **open-source projects** that address real-world problems and **startups** focused on cutting-edge technologies and impactful solutions.
+
+## 📫 Get in Touch
+
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+## 🧩 Pronouns
+
+He/Him
+
+## ⚡ Fun Fact
+
+I love hiking on weekends and have explored over 50 unique hiking trails across different states!
+
+---
 
 ## 🛠 Skills & Tools
 
@@ -27,6 +36,21 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
 </p>
+
+---
+
+## 🏆 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Thanveer&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=20&theme=radical)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Thanveer&layout=compact&theme=radical)
+
+<!-- Streak Stats Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Thanveer&theme=radical)
+
+---
 
 ## 🖼️ Developer Vibes
 
