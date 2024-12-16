@@ -1,37 +1,26 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" style="vertical-align: middle;"> Hi, I’m [@Md-Thanveer](https://github.com/Md-Thanveer)
+<!-- GitHub Profile README -->
 
-Welcome to my GitHub profile! I'm passionate about exploring the intersections of **web development** and **machine learning**. I enjoy creating innovative solutions and experimenting with new technologies.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60"/>
+  
+  # Hi, I’m [@Md-Thanveer](https://github.com/Md-Thanveer) 👋
 
----
-
-## 🌟 What I'm Working On
-
-- **Learning:** Currently diving into **HTML, CSS, JavaScript, PHP**, **MySQL**, and **AngularJS** to build robust web applications. I'm also working with **Dart** and **Flutter** for modern app development, **Laravel** for backend solutions, **Django** for scalable web apps, and **React** for front-end enhancements. **Electron** is next on my list for building cross-platform desktop applications.
-- **Collaborating:** Eager to join **open-source projects** that address real-world problems and **startups** focused on cutting-edge technologies and impactful solutions.
-
----
-
-## 📫 Get in Touch
-
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yourprofile).
+  <p>Welcome to my GitHub profile! I’m passionate about exploring <strong>web development</strong> and <strong>machine learning</strong>. I enjoy building innovative solutions and experimenting with new technologies.</p>
+</div>
 
 ---
 
-## 🧩 Pronouns
+## 🌟 What I’m Working On
 
-**He/Him**
-
----
-
-## ⚡ Fun Fact
-
-I love hiking on weekends and have explored over 50 unique hiking trails across different states!
+- **Learning:** Enhancing my expertise in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **AngularJS**, **Laravel**, **Django**, **React**, and **Flutter** for modern web and mobile app development.
+- **Exploring:** Starting with **Electron** to create cross-platform desktop applications.
+- **Collaborating:** Open to working on impactful **open-source projects** and contributing to **startups**.
 
 ---
 
 ## 🛠 Skills & Tools
 
-<p align="center">
+<div align="center">
   <!-- Web Development Basics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
@@ -56,13 +45,11 @@ I love hiking on weekends and have explored over 50 unique hiking trails across 
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-</p>
-
-
+</div>
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Thanveer&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=20&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
@@ -72,8 +59,30 @@ I love hiking on weekends and have explored over 50 unique hiking trails across 
 
 ---
 
+## 📫 Get in Touch
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+  <p>I love hiking on weekends and have explored over 50 unique hiking trails across different states! 🏞️</p>
+</div>
+
+---
+
 ## 🖼️ Developer Vibes
 
-<p align="center">
+<div align="center">
   <img src="https://t3.ftcdn.net/jpg/08/24/71/98/240_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" alt="Developer Vibes" width="600" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);"/>
-</p>
+</div>
+
