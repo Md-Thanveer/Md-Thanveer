@@ -55,6 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Thanveer&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=20&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Thanveer&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Thanveer&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <!-- Achievements Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-Thanveer&theme=tokyonight&row=1&column=3" alt="Achievements Trophy" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 ---
@@ -85,4 +87,3 @@
 <div align="center">
   <img src="https://t3.ftcdn.net/jpg/08/24/71/98/240_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" alt="Developer Vibes" width="600" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);"/>
 </div>
-
